@@ -1,0 +1,436 @@
+.frame-1,
+.frame-1 * {
+  box-sizing: border-box;
+}
+.frame-1 {
+  background: #fafafa;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  height: 1064px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: column;
+  gap: 57px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.header {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  padding: 25px 114px 25px 114px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 100px;
+  position: relative;
+}
+.logo-pens-1 {
+  flex-shrink: 0;
+  width: 50px;
+  height: 50px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.header-comp {
+  display: flex;
+  flex-direction: row;
+  gap: 33px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.home {
+  display: flex;
+  flex-direction: row;
+  gap: 6px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.home2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.vector-1 {
+  flex-shrink: 0;
+  width: 12px;
+  height: 4px;
+  position: relative;
+  overflow: visible;
+}
+.profil {
+  display: flex;
+  flex-direction: row;
+  gap: 6px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.profil-prodi {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.vector-2 {
+  flex-shrink: 0;
+  width: 12px;
+  height: 4px;
+  position: relative;
+  overflow: visible;
+}
+.akademik {
+  display: flex;
+  flex-direction: row;
+  gap: 6px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.akademik2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.vector-3 {
+  flex-shrink: 0;
+  width: 12px;
+  height: 4px;
+  position: relative;
+  overflow: visible;
+}
+.fasilitas {
+  display: flex;
+  flex-direction: row;
+  gap: 6px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.fasilitas2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.vector-4 {
+  flex-shrink: 0;
+  width: 12px;
+  height: 4px;
+  position: relative;
+  overflow: visible;
+}
+.mahasiswa {
+  display: flex;
+  flex-direction: row;
+  gap: 6px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.mahasiswa2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.vector-5 {
+  flex-shrink: 0;
+  width: 12px;
+  height: 4px;
+  position: relative;
+  overflow: visible;
+}
+.kegiatan {
+  display: flex;
+  flex-direction: row;
+  gap: 6px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.kegiatan-prodi {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.vector-6 {
+  flex-shrink: 0;
+  width: 12px;
+  height: 4px;
+  position: relative;
+  overflow: visible;
+}
+.search-icon-1 {
+  flex-shrink: 0;
+  width: 50px;
+  height: 50px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.body {
+  display: flex;
+  flex-direction: row;
+  gap: 264px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.sekilas {
+  background: #e4e4e4;
+  border-radius: 40px;
+  padding: 50px 56px 50px 56px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 700px;
+  height: 550px;
+  position: relative;
+}
+.sekilas-profil-program-studi-sarjana-terapan-teknologi-rekayasa-internet-akan-mendapatkan-materi-teori-dan-praktek-tentang-elektronika-umum-pengembangan-aplikasi-website-network-security-cloud-computing-mobile-computing-dan-internet-of-things-io-t-dengan-dosen-yang-berpengalaman-dalam-akademik-dan-praktisi-maka-lulusan-akan-memiliki-kompetensi-antara-lain-internet-developer-internet-network-engineer-network-security-engineer-cloud-computing-engineer-mobile-dan-io-t-engineer-dan-masih-banyak-lainnya {
+  color: #000000;
+  text-align: left;
+  position: relative;
+  width: 588px;
+  height: 450px;
+}
+.sekilas-profil-program-studi-sarjana-terapan-teknologi-rekayasa-internet-akan-mendapatkan-materi-teori-dan-praktek-tentang-elektronika-umum-pengembangan-aplikasi-website-network-security-cloud-computing-mobile-computing-dan-internet-of-things-io-t-dengan-dosen-yang-berpengalaman-dalam-akademik-dan-praktisi-maka-lulusan-akan-memiliki-kompetensi-antara-lain-internet-developer-internet-network-engineer-network-security-engineer-cloud-computing-engineer-mobile-dan-io-t-engineer-dan-masih-banyak-lainnya-span {
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 32px;
+  font-weight: 800;
+}
+.sekilas-profil-program-studi-sarjana-terapan-teknologi-rekayasa-internet-akan-mendapatkan-materi-teori-dan-praktek-tentang-elektronika-umum-pengembangan-aplikasi-website-network-security-cloud-computing-mobile-computing-dan-internet-of-things-io-t-dengan-dosen-yang-berpengalaman-dalam-akademik-dan-praktisi-maka-lulusan-akan-memiliki-kompetensi-antara-lain-internet-developer-internet-network-engineer-network-security-engineer-cloud-computing-engineer-mobile-dan-io-t-engineer-dan-masih-banyak-lainnya-span2 {
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+.kerjasama {
+  background: #e4e4e4;
+  border-radius: 40px;
+  padding: 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  row-gap: 80px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  flex-shrink: 0;
+  width: 845px;
+  height: 550px;
+  position: relative;
+}
+.kerjasama-dan-sertifikasi-kompetensi {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 32px;
+  font-weight: 800;
+  position: relative;
+}
+.logo {
+  display: flex;
+  flex-direction: row;
+  gap: 46px;
+  row-gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  flex-shrink: 0;
+  width: 792px;
+  position: relative;
+}
+.amazon-web-services-academy-removebg-preview-300-x-70-1 {
+  flex-shrink: 0;
+  width: 300px;
+  height: 70px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 300/70;
+}
+.index-removebg-preview-1 {
+  flex-shrink: 0;
+  width: 185px;
+  height: 185px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.favpng-cisco-systems-ccna-computer-network-cisco-networking-academy-removebg-preview-300-x-213-1 {
+  flex-shrink: 0;
+  width: 215px;
+  height: 153px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 215/153;
+}
+.maxresdefault-removebg-preview-300-x-169-1 {
+  flex-shrink: 0;
+  width: 300px;
+  height: 169px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 300/169;
+}
+._2-uuey-8-k-t-jw-o-fa-3-eh-ii-4-f-a-5-gdz-nb-kc-lvw-removebg-preview-300-x-114-1 {
+  flex-shrink: 0;
+  width: 300px;
+  height: 114px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 300/114;
+}
+.footer {
+  background: #103968;
+  padding: 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 1920px;
+  height: 300px;
+  position: relative;
+}
+.pens {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 561px;
+  position: relative;
+}
+.tri-header-1 {
+  flex-shrink: 0;
+  width: 344px;
+  height: 79px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 344/79;
+}
+.program-studi-sarjana-terapan-teknologi-rekayasa-internet-politeknik-elektronika-negeri-surabaya-jl-raya-its-sukolilo-kota-surabaya-60111-62-31-594-7280-ext-7102-humas-pens-ac-id {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 98px;
+}
+.tentang {
+  display: flex;
+  flex-direction: row;
+  gap: 39px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.tentang-kami-visi-misi-kurikulum-sk-pendirian-rps-penelitian-pengabdian-masyarakat {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.tentang-kami-visi-misi-kurikulum-sk-pendirian-rps-penelitian-pengabdian-masyarakat-span {
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-weight: 800;
+}
+.tentang-kami-visi-misi-kurikulum-sk-pendirian-rps-penelitian-pengabdian-masyarakat-span2 {
+  font-family: "Inter-Regular", sans-serif;
+}
+.tentang-kami-visi-misi-kurikulum-sk-pendirian-rps-penelitian-pengabdian-masyarakat-span3 {
+  font-family: "Inter-Regular", sans-serif;
+  text-decoration: underline;
+}
+.pranala-luar-kemdikbud-politeknik-elektronika-negeri-surabaya {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.pranala-luar-kemdikbud-politeknik-elektronika-negeri-surabaya-span {
+  color: #f2c808;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-weight: 800;
+}
+.pranala-luar-kemdikbud-politeknik-elektronika-negeri-surabaya-span2 {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+}
+.pranala-luar-kemdikbud-politeknik-elektronika-negeri-surabaya-span3 {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  text-decoration: underline;
+}
+.fasilitas-lab-jaringan-dan-komunikasi-data-lab-web-development-and-apps-lab-network-security-lab-mobile-comm-dan-io-t-lab-cloud-computing-ruang-tugas-akhir {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.fasilitas-lab-jaringan-dan-komunikasi-data-lab-web-development-and-apps-lab-network-security-lab-mobile-comm-dan-io-t-lab-cloud-computing-ruang-tugas-akhir-span {
+  color: #f2c808;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-weight: 800;
+}
+.fasilitas-lab-jaringan-dan-komunikasi-data-lab-web-development-and-apps-lab-network-security-lab-mobile-comm-dan-io-t-lab-cloud-computing-ruang-tugas-akhir-span2 {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+}
+.fasilitas-lab-jaringan-dan-komunikasi-data-lab-web-development-and-apps-lab-network-security-lab-mobile-comm-dan-io-t-lab-cloud-computing-ruang-tugas-akhir-span3 {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  text-decoration: underline;
+}
